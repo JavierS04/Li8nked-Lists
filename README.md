@@ -1,2 +1,2 @@
-# Li8nked-Lists
+# Linked-Lists
 Top linked lists exercise
